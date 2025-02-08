@@ -144,3 +144,8 @@ a {
 .footer__menu-list-item:first-child {
   padding-top: 0;
 }
+
+.footer__social-icon {
+  height: 48px;
+  width: 48px;
+}

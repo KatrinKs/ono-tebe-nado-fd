@@ -250,8 +250,8 @@
 .about {
   display: grid;
 
-  padding-top: 120px;
-  padding-bottom: 181px;
+  margin-top: 120px;
+  margin-bottom: 181px;
   column-gap: 72px;
 }
 
@@ -299,8 +299,9 @@
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-
   align-items: start;
+
+  padding-bottom: 82px;
 }
 
 .footer__address {
